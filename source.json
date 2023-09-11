@@ -1,6 +1,6 @@
 {
     "name":"Guribo's VPM Listing",
-    "id":"com.guribo.tlp.vcc-listing",
+    "id":"tlp.vcc-listing",
     "url":"https://Guribo.github.io/TLP/index.json",
     "author":{
         "name":"Guribo",
@@ -15,5 +15,6 @@
     "githubRepos":[
         "Guribo/UdonUtils",
         "Guribo/UdonVoiceUtils"
-    ]
+    ],
+    "packages":[]
 }
