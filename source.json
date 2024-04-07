@@ -14,7 +14,6 @@
     "bannerUrl":"",
     "githubRepos":[
         "Guribo/UdonUtils",
-        "Guribo/UdonVehicleSync",
         "Guribo/UdonVoiceUtils",
         "Guribo/UdonUiAnimators"
     ],
