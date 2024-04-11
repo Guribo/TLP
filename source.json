@@ -13,6 +13,7 @@
     },
     "bannerUrl":"",
     "githubRepos":[
+        "Guribo/UdonProfiling",
         "Guribo/UdonUtils",
         "Guribo/UdonVoiceUtils",
         "Guribo/UdonUiAnimators"
