@@ -16,6 +16,7 @@
         "Guribo/UdonProfiling",
         "Guribo/UdonUtils",
         "Guribo/UdonVoiceUtils",
+        "Guribo/UdonVehicleSync",
         "Guribo/UdonUiAnimators"
     ],
     "packages":[]
