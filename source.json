@@ -17,6 +17,7 @@
         "Guribo/UdonUtils",
         "Guribo/UdonVoiceUtils",
         "Guribo/UdonVehicleSync",
+        "Guribo/UdonVehicleSyncSaccFlightAdapter",
         "Guribo/UdonUiAnimators"
     ],
     "packages":[]
